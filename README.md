@@ -6,7 +6,7 @@ This is a taste of my kind of music and my preferred band. Being kenyan might ha
 ## Setup/Installation Requirements
 * Liveserver is needed to be installed
 ## Known Bugs
-No known bugs yet
+No known bugs yet. 
 ## Technologies Used
 Website coded using HTML,CSS
 ## Support and contact details
