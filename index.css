@@ -1,0 +1,58 @@
+body{
+    background-color: lavender;
+    border: 1px solid black;
+    margin: 40px;
+    padding: 10px;
+    color: black;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+h1{
+    background-image: url(https://www.musicinafrica.net/sites/default/files/styles/article_slider_large/public/images/article/202004/29497002101563451273387138953285853124231168o.jpg?itok=smneRRcA);
+    color: springgreen;
+    padding:50px;
+    text-align: right;
+    font-weight: bold;
+    background-clip: border-box;
+    border: 10px outset mediumaquamarine;
+}
+.biography{
+    
+  text-underline-position: below;
+  padding: 10px;
+  border: 10px inset lightblue;
+  align-items: center;
+  text-align: center;
+  color: slateblue;
+  
+}
+div.list{
+    color: seagreen;
+    text-indent: 2;
+
+}
+#image{
+    height: 200px;
+    width: 200px;
+    background-clip: border-box;
+    border: 10px outset cyan;
+}
+a:link{
+    padding: 15px;
+    text-underline-position: below;
+}
+a:hover{
+    color: red;
+    background-color: cyan;
+}
+a:visited:{
+    color: seagreen;
+}
+h3{
+    color: blue;
+    text-decoration: underline;
+}
+ul{
+    color: blueviolet;
+}
