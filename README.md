@@ -1,6 +1,6 @@
-# {MY FAVORITE BAND}
-#### {This is a website touching on my favorite band}, {Feb 28, 2021}
-#### By **{Kibet, Amos, Moringa School**
+# MY FAVORITE BAND
+#### This is a website touching on my favorite band, {Feb 28, 2021}
+####  **Contribution by  Amos, Moringa School**
 ## Description
 This is a taste of my kind of music and my preferred band. Being kenyan might have contributed to my interest in the group.
 ## Setup/Installation Requirements
