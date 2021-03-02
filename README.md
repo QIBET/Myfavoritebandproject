@@ -13,5 +13,5 @@ Website coded using HTML,CSS
 Incase of any bottlenecks or challenges, Kindly reach us on Email: bernardonline88@gmail.com
 Github access link: https://github.com/QIBET/Myfavoritebandproject.git
 ### License
-
+This project is under the  [MIT](LICENSE) license
 Copyright (c) 2021                          Developer: Bernard Kibet
